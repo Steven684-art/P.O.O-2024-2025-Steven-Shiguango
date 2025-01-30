@@ -25,8 +25,7 @@ def mostrar_menu():
         '5': 'Tarea_Semana-6-POO/Tarea-Semana 6.py',
         '6': 'Tarea_Semana-7-POO/Tarea_Semana_7.py',
 
-
-        # Agrega aquí el resto de las rutas de los scripts
+        # Se agregó aquí el resto de las rutas de los scripts
     }
 
     while True:
