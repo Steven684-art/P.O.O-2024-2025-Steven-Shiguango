@@ -28,7 +28,7 @@ def mostrar_menu():
         '1': 'Tarea_Semana_2.py',
         '2': 'Tareas_Semana_3-P.O.O/Tarea_Semana_3-P.O.O.py',
         '3': 'Tareas_Semana_3-P.O.O/Tarea_Semana_3-Prog_Tradicional.py',
-        '4': 'Tarea-Semana_4-POO/Tarea_Semana_4.py',
+        '4': 'Tarea-Semana 4-EjemplosMundoReal_POO/Tarea_Semana_4.py',
         '5': 'Tarea_Semana_5/Tarea-Semana_5.py',
         '6': 'Tarea_Semana-6-POO/Tarea-Semana 6.py',
         '7': 'Tarea_Semana-7-POO/Tarea_Semana_7.py',
