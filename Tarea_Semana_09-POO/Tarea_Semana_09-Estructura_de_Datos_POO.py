@@ -114,7 +114,7 @@ def menu():
         if opcion == "1":
             #Opción para añadir un producto
             try:
-                #Solicita los datos del producto al usuario
+              us  #Solicita los datos del producto al uario
                 id_producto = int(input("Ingrese el ID del producto: "))
                 nombre = input("Ingrese el nombre del producto: ")
                 cantidad = int(input("Ingrese la cantidad del producto: "))
