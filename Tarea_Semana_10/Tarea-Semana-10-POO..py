@@ -2,7 +2,7 @@ import os
 
 
 class Producto:
-    """Clase que representa un producto en el inventario."""
+    "Clase que representa un producto en el inventario."
 
     def __init__(self, id_producto, nombre, cantidad, precio):
         self.id_producto = id_producto
