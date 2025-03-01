@@ -96,10 +96,10 @@ def menu():
     inventario = Inventario()
     while True:
         print("\n Menú de Inventario ")
-        print("1. Agregar producto")
-        print("2. Eliminar producto")
-        print("3. Actualizar producto")
-        print("4. Mostrar inventario")
+        print("1. Añadir nuevos productos")
+        print("2. Eliminar productos por ID")
+        print("3. Actualizar cantidad o precio de un producto")
+        print("4. Mostrar todos los productos en el inventario")
         print("5. Guardar y salir")
 
         opcion = input("Seleccione una opción: ")
