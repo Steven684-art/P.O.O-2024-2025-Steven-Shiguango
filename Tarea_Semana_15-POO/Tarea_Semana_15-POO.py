@@ -1,5 +1,5 @@
 #Semana 15
-# Tarea: Conceptos fundamentales de manejo de eventos
+#Tarea: Conceptos fundamentales de manejo de eventos
 #Aplicación GUI de Lista de Tareas
 
 
