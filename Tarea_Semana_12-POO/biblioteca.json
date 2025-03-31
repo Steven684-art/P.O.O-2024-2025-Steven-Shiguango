@@ -1,0 +1,9 @@
+{
+    "12": {
+        "titulo": "El conejo malo",
+        "autor": "Steven",
+        "categoria": "ni\u00f1os",
+        "isbn": "12",
+        "prestado": false
+    }
+}
